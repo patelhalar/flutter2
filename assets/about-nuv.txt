@@ -1,0 +1,72 @@
+question bank...(2D 3D)
+  
+
+ (1). write a short note on ray tracing.
+ (2). write a short note on ray sphere intersection.
+ (3). write a short note on BSP tree.
+ (4). explain various affine transformation
+ (5). difference between parallel and perspective projection.
+ (6).explain various illumination model.
+ (7).explain how gouraud and phong shading work for polygons?
+ (8).write a short note on computer graphics?
+ (9).different between raster image and vector image?
+ (10).explain various three dimension views of a picture?
+ (11).write a short note on bresenhams algorithm for polygonal fill? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
